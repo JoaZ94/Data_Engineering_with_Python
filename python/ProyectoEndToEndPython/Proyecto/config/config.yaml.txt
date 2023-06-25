@@ -1,0 +1,13 @@
+# Modifique este archivo y guardelo como config.yaml 
+
+mongo_db:
+  connection_string: "mongodb+srv://HHHHHHHHHHHHHHHHHHHHHHHHH"
+
+cloud_storage:
+  credentials: "/user/app/ProyectoEndToEndPython/Proyecto/credenciales/cloudstorage.json"
+  
+mysql:
+  host: "192.168.1.86"
+  user: "root"
+  pass: "root"
+  port: "3310"
